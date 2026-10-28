@@ -1,0 +1,4 @@
+ideavim:
+  ideavimrc:
+    source: ./ideavimrc
+    destination: ~/.ideavimrc
